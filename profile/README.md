@@ -37,7 +37,6 @@ Sharpen a vague idea into a clear problem worth solving. Slice ambition into mil
 
 ## Get in touch
 
-- **General:** [hello@novawerk.org](mailto:hello@novawerk.org)
-- **Press:** [press@novawerk.org](mailto:press@novawerk.org)
+[info@novawerk.io](mailto:info@novawerk.io)
 
 <sub>The next Nova is you.</sub>
